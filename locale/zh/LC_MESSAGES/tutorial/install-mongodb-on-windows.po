@@ -33,7 +33,7 @@ msgstr "运行平台："
 
 #: ../source/tutorial/install-mongodb-on-windows.txt:14
 msgid "Starting in version 2.2, MongoDB does not support Windows XP. Please use a more recent version of Windows to use more recent releases of MongoDB."
-msgstr "从2.2版本开始,MongoDB不支持Windows XP。请使用“最近版本的Windows使用MongoDB的最近版本。"
+msgstr "从2.2版本开始,MongoDB不支持Windows XP。请使用最近版本的Windows来运行最新版本的MongoDB。"
 
 #: ../source/tutorial/install-mongodb-on-windows.txt:18
 msgid "If you are running any edition of Windows Server 2008 R2 or Windows 7, please install `a hotfix to resolve an issue with memory mapped files on Windows <http://support.microsoft.com/kb/2731284>`_."
@@ -61,7 +61,7 @@ msgstr "MongoDB Windows 64位安装包在平台运行64位版本的Windows”有
 
 #: ../source/includes/steps/install-mongodb-on-windows.rst:22
 msgid "**MongoDB for Windows 32-bit** runs on any 32-bit version of Windows newer than Windows XP. 32-bit versions of MongoDB are only intended for older systems and for use in testing and development systems. 32-bit versions of MongoDB only support databases smaller than 2GB."
-msgstr "MongoDB Windows 32位运行32位版本的Windows，Windows XP。MongoDB的32位版本只用于旧的系统和用于测试和开发系统"
+msgstr "MongoDB Windows 32位运行32位版本的Windows，Windows XP。MongoDB的32位版本只用于旧的系统以及测试和开发系统"
 
 #: ../source/includes/steps/install-mongodb-on-windows.rst:28
 msgid "To find which version of Windows you are running, enter the following command in the :guilabel:`Command Prompt`:"
@@ -93,7 +93,7 @@ msgstr "MongoDB文件夹,你要赋给他最高的Administrator权限。例如,�
 
 #: ../source/includes/steps/install-mongodb-on-windows.rst:94
 msgid "Select :guilabel:`Start Menu` > :guilabel:`All Programs` > :guilabel:`Accessories`."
-msgstr "选择::“开始菜单”>“所有程序”>“配件”。"
+msgstr "选择::“开始菜单”>“所有程序”>“附件”。"
 
 #: ../source/includes/steps/install-mongodb-on-windows.rst:97
 msgid "Right-click :guilabel:`Command Prompt` and select :guilabel:`Run as Administrator` from the popup menu."
