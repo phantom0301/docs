@@ -20,12 +20,12 @@ msgstr ""
 # 816f2aaadad549a78fbb06362995950b
 #: ../source/tutorial/install-mongodb-enterprise-on-red-hat-or-centos.txt:3
 msgid "Install MongoDB Enterprise on Red Hat Enterprise or CentOS"
-msgstr ""
+msgstr "在Red Hat或者CentOS上安装MongoDB企业版"
 
 # 089ae241a6034a5cb258826b464169ed
 #: ../source/tutorial/install-mongodb-enterprise-on-red-hat-or-centos.txt:8
 msgid "Overview"
-msgstr ""
+msgstr "总体概述"
 
 # 95d6e4515b5249cdaea10dc0f5777cb8
 #: ../source/tutorial/install-mongodb-enterprise-on-red-hat-or-centos.txt:10
@@ -33,16 +33,18 @@ msgid ""
 "Use this tutorial to install MongoDB Enterprise on Red Hat Enterprise Linux "
 "or CentOS Linux. The tutorial uses ``.rpm`` packages to install."
 msgstr ""
+"使用本教程在红帽企业版Linux或者CentOS上安装MongoDB企业版。"
+"本教程使用``.rpm``包来安装"
 
 # fddbabcec3a24e9cb16160f5ac9af3dd
 #: ../source/includes/list-mongodb-enterprise-packages.rst:2
 msgid "Packages"
-msgstr ""
+msgstr "安装包"
 
 # 7cdc2ba51708496798f0b44b9f052152
 #: ../source/includes/list-mongodb-enterprise-packages.rst:8
 msgid "``mongodb-enterprise``"
-msgstr ""
+msgstr "``mongodb-enterprise``"
 
 # 5ad478351f6441caa661685d967f297c
 #: ../source/includes/list-mongodb-enterprise-packages.rst:10
@@ -50,11 +52,12 @@ msgid ""
 "This package is a ``metapackage`` that will automatically install the four "
 "component packages listed below."
 msgstr ""
+"本安装包是一个``元包``，它会安装以下四个组成包"
 
 # 7e7b7c9e2c8e4b7389329ff7256846e5
 #: ../source/includes/list-mongodb-enterprise-packages.rst:13
 msgid "``mongodb-enterprise-server``"
-msgstr ""
+msgstr "``mongodb-enterprise-server`"
 
 # 0ee38091906a4e9199a7bd3d40e60000
 #: ../source/includes/list-mongodb-enterprise-packages.rst:15
@@ -62,31 +65,33 @@ msgid ""
 "This package contains the :program:`mongod` daemon and associated "
 "configuration and init scripts."
 msgstr ""
+"这个包包括:program:`mongod`后台程序"
+"和相关的配置以及初始化脚本"
 
 # 2f9184b333c144c99277dc4d07558651
 #: ../source/includes/list-mongodb-enterprise-packages.rst:18
 msgid "``mongodb-enterprise-mongos``"
-msgstr ""
+msgstr "``mongodb-enterprise-mongos``"
 
 # 51ce2687563f415eaf83c2f26dabb865
 #: ../source/includes/list-mongodb-enterprise-packages.rst:20
 msgid "This package contains the :program:`mongos` daemon."
-msgstr ""
+msgstr "这个包包括:program:`mongod`后台程序"
 
 # b0077f11ba194e409019ef12abd94734
 #: ../source/includes/list-mongodb-enterprise-packages.rst:22
 msgid "``mongodb-enterprise-shell``"
-msgstr ""
+msgstr "``mongodb-enterprise-shell``"
 
 # d53cfc0fc73844b6b6231dcd72c97efc
 #: ../source/includes/list-mongodb-enterprise-packages.rst:24
 msgid "This package contains the :program:`mongo` shell."
-msgstr ""
+msgstr "这个包包括:program:`mongod`命令行解释器"
 
 # 72e666e8f70644f0a1894aa487ae582a
 #: ../source/includes/list-mongodb-enterprise-packages.rst:26
 msgid "``mongodb-enterprise-tools``"
-msgstr ""
+msgstr "``mongodb-enterprise-tools``"
 
 # b4b993d2ce8e4c3c8fe710e865ffff26
 #: ../source/includes/list-mongodb-enterprise-packages.rst:28
@@ -97,11 +102,16 @@ msgid ""
 ":program:`mongoperf`, :program:`mongorestore`, :program:`mongostat`, and "
 ":program:`mongotop`."
 msgstr ""
+"这个包包括以下的MonggoDB工具: :program:`mongoimport` "
+":program:`bsondump`, :program:`mongodump`, :program:`mongoexport`, "
+":program:`mongofiles`, :program:`mongoimport`, :program:`mongooplog`,"
+":program:`mongoperf`, :program:`mongorestore`, :program:`mongostat`, and"
+":program:`mongotop`."
 
 # fba1668809da495d9d3d1db0370e7761
 #: ../source/includes/list-mongodb-enterprise-packages.rst:35
 msgid "Control Scripts"
-msgstr ""
+msgstr "控制脚本"
 
 # 708cecdff7fc4230a107836c7b7182d3
 #: ../source/includes/list-mongodb-enterprise-packages.rst:37
@@ -109,6 +119,8 @@ msgid ""
 "The ``mongodb-enterprise`` package includes various :term:`control scripts "
 "<control script>`, including the init script ``/etc/rc.d/init.d/mongod``."
 msgstr ""
+"``mongodb-enterprise`` 包包含多种:term:`控制脚本<控制脚本>` "
+"其中还包括初始化脚本``/etc/rc.d/init.d/mongod``."
 
 # ec5d9f33c5f441e2a282b3fd1eabf334
 #: ../source/includes/list-mongodb-enterprise-packages.rst:40
@@ -116,6 +128,7 @@ msgid ""
 "The package configures MongoDB using the ``/etc/mongod.conf`` file in "
 "conjunction with the control scripts."
 msgstr ""
+"这个包使用连接控制脚本中的文件``/etc/mongod.conf`` 来配置MongoDB"
 
 # 7827d7e47a154b0c91a96c5e9e8ce514
 #: ../source/includes/list-mongodb-enterprise-packages.rst:43
@@ -129,7 +142,7 @@ msgstr ""
 # 907c24208338423986b4144d2344a73c
 #: ../source/tutorial/install-mongodb-enterprise-on-red-hat-or-centos.txt:25
 msgid "Install MongoDB Enterprise"
-msgstr ""
+msgstr "安装MongoDB企业版"
 
 # 9290d232388f4f6589c34c419c50f039
 #: ../source/tutorial/install-mongodb-enterprise-on-red-hat-or-centos.txt:27
